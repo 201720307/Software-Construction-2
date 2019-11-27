@@ -25,3 +25,4 @@ public class Born {// 产生50个算式父类
 		}
 	}
 }
+ 

@@ -17,3 +17,4 @@ public class bornTester {
 		born.printResult();
 	}
 }
+ 

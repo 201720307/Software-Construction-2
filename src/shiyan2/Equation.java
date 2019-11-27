@@ -45,5 +45,4 @@ public class Equation {//算式类，产生算式
 	public String toString() {
 		return "" + ldate + op + rdate + "=" + value;
 	}
-
-}
+}  

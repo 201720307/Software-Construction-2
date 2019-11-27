@@ -10,3 +10,4 @@ public class SubOpration extends Equation {
 		} while (value < 0);// ·¶Î§Ô¼Êø
 	}
 }
+ 

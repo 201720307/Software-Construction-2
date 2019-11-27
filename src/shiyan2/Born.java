@@ -89,4 +89,4 @@ public class Born {//习题类，产生50道习题
 		}
 	}
 }
-
+ 

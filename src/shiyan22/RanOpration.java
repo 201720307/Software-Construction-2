@@ -12,3 +12,4 @@ public class RanOpration extends Equation {
 		}
 	}
 }
+ 

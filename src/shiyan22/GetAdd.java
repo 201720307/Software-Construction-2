@@ -10,4 +10,4 @@ public class GetAdd extends Born {
 			eqList[i] = addOpration;// 只要产生的算式没在当前练习题中，就加入尾部
 		}
 	}
-}
+} 

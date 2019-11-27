@@ -10,3 +10,4 @@ public class AddOpration extends Equation {
 		} while (value > 100);// ·¶Î§Ô¼Êø
 	}
 }
+ 

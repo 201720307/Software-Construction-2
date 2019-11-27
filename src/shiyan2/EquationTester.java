@@ -16,4 +16,4 @@ public class EquationTester {
 			System.out.println(e);	
 		}
 	}
-}
+} 
